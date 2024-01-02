@@ -1,10 +1,14 @@
-# That's A WrAPP (SITE) - Production Scheduling Simplified
+<p align="center"><img src="img/TAWApp-SM.png" alt="That's A Wrapp logo"></p>
 
-This is the start of a website built around a passion project app called That's A WrAPP. This site showcases a production scheduling app designed to simplify the life's of crew members on set while shooting television & film. This site utilizes the technologies of HTML, CSS (BOOTSTRAP), JAVASCRIPT and PHP. The sign up (html) form (blue sign up link at the bottom of the index.html page that navigates you to update.html) uses PHP, phpMyAdmin & XAMPP to host & post the users information to the defined localhost server. Javascript was used for the arrow button on the bottom-right of the index.html page to help navigate (those lazy ;) users back to the top. This project also utlizes Google API's for fonts & icons as well as Font-Awesome for additional icons & CSS styling. The nav-bar at the top, navigates to anchor id's on the index page's varying sections. There's also a separate story.html page for the "Our Story" link.
+<h1 align="center"> Production Scheduling Simplified | LANDING SITE</h1>
 
-It's tricky to maintain a simple, straight-forward approach to a site like this, as well as (assuming) the app - when it comes time for coding such a thing. Design-wise I had many thoughts and ideas of how to convey the information but the overall the idea for this project is to showcase simplicity and ease of use. So, stylistically it needs to adopt that idea of minimilism.
+This is the start of a website built around a passion project app called That's A WrAPP. This site showcases a production scheduling app designed to simplify the life's of crew members on set while shooting television & film. This site utilizes the technologies of html, css (bootstrap) & javascript. The sign up (html) form found after clicking the blue sign up link at the bottom of the index.html page that navigates you to update.html, uses php, phpMyAdmin & XAMPP to host & post the users information to the defined localhost server. Javascript was used for the arrow button on the bottom-right of the index.html page to help navigate (those lazy ;) users back to the top. This project also utlizes Google API's for fonts & icons as well as Font-Awesome for additional icons & CSS styling. The nav-bar at the top, navigates to anchor id's on the index page's varying sections. There's also a separate story.html page for the "Our Story" link.
 
-Initially appeared on [GitHub (repo)](https://github.com/harlanray/shodo-proto).
+It's tricky to maintain a simple, straight-forward approach to a site like this, as well as (assuming) the app - when it comes time for coding such a thing. Design-wise I had many thoughts and ideas of how to convey the information but the overall idea for this project is to showcase simplicity and ease of use. So, stylistically it needs to adopt that same idea of minimilism.
+
+Initially appeared on [GitHub (repo)](https://github.com/harlanray/TAWrAPP).
+
+![landing page screenshot](<img/Screenshot 2024-01-01 at 3.32.12 PM.png>)
 
 ## Getting Started and Installing
 
@@ -32,7 +36,7 @@ N/A
 
 ## Versioning [work in progress]
 
-We use [Semantic Versioning](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/harlanray/shodo-proto/releases).
+We use [Semantic Versioning](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/harlanray/TAWrAPP/releases).
 
 ## Authors
 
