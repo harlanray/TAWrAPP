@@ -12,7 +12,9 @@ Initially appeared on [GitHub (repo)](https://github.com/harlanray/TAWrAPP).
 
 ## Getting Started and Installing
 
-If working in VSCODE, simply drag and drop project folder into IDE. Right-click on index.html file -> select Open with Live Server. Alternatively, drag and drop index.html file into supported browser of choice. To see Skyline switch from Night to Day, expand browser window. To switch back to Night, decrease window.
+Download a copy of the code from the GitHub repo and move to desired folder on your local machine. Then you can open or drag the folder to the IDE for your choice. Once all files and folders have populated, right click on the index.html file -> click "Open with Live Server."
+
+Project will open in deafult browser window for which you can use to help visualize edits that you make in the code, etc.
 
 ### Style test
 
